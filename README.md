@@ -16,7 +16,7 @@ This repository contains a minimal HTML page that redirects visitors and informs
 
 Please visit the new site for the latest version of my portfolio, projects, and contact information:
 
-🔗 https://b3kh20d.web.app/
+🔗 https://bekh20d.web.app/
 
 ---
 
