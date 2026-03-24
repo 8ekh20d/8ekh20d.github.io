@@ -6,7 +6,7 @@ This repository previously hosted the source code for my personal portfolio webs
 
 The website has been moved to a new location and is now available at:
 
-👉 **[https://b3kh20d.web.app/](https://bekh20d.web.app/)**
+👉 **[https://bekh20d.web.app/](https://bekh20d.web.app/)**
 
 ## What’s in this repository now?
 
